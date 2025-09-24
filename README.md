@@ -4,7 +4,7 @@
 
 - Software Engineering student at IFSP
 
-- 💬 Ask me about **Python, HTML, CSS, C#
+
 
 
 
